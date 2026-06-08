@@ -7204,10 +7204,8 @@ const ContinuousMDEngine = {
             // Individual registered endpoints are available via the outcome selector (allOutcomes arrays).
 
 
-            // publishedHR stores the published effect estimate — for FINEARTS this is a rate ratio (RR),
-
-
-            // not a hazard ratio; see estimandType:'RR'. HR-only analyses filter on estimandType.
+            // publishedHR fields are null here; the pooled effect is an odds ratio computed from the
+            // 2x2 ACR20 responder counts (tE/tN/cE/cN). estimandType:'OR'; effectMeasure default 'OR'.
 
 
             realData: {
