@@ -21,7 +21,7 @@ phase-3 RCTs?
 | τ² | 0.000 |
 | 95% prediction interval | 2.61 – 4.42 |
 | Trials (k) | 4 | 
-| Participants (analysed arms) | 2,228 |
+| Participants (analysed arms) | 2,728 |
 
 Interpretation: across four phase-3 trials of four different JAK inhibitors,
 ACR20 response is roughly **3.4× more likely** with a JAK inhibitor than with
